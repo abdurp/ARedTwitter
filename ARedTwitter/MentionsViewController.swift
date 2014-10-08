@@ -29,7 +29,7 @@ class MentionsViewController: UIViewController, UITableViewDelegate, UITableView
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        HUD.textLabel.text = "Loading Tweets.."
+        HUD.textLabel.text = "Loading Mentions.."
         HUD.showInView(self.view)
         
         

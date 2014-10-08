@@ -39,3 +39,4 @@ Open Source Libraries:
 - JGProgressHUD
 
 GIF (created using LiceCAP):
+![TwitterReduxGIF-AbdurR.gif](https://github.com/abdurp/ARedTwitter/blob/master/TwitterReduxGIF-AbdurR.gif)
